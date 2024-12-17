@@ -1,1 +1,47 @@
+Modelado Predictivo
+Objetivo:
+Desarrollar y evaluar modelos predictivos utilizando el conjunto de datos analizado previamente, con el fin de hacer predicciones basadas en los datos y evaluar el rendimiento de los modelos.
+
+Descripción de la tercer actividad:
+Selección y Preparación de Modelos:
+
+Selección de Algoritmos: Investigar y seleccionar al menos tres algoritmos de modelado predictivo apropiados para el problema planteado (por ejemplo, regresión lineal, árboles de decisión, máquinas de soporte vectorial, redes neuronales, etc.).
+Preparación de Datos: Dividir el conjunto de datos en conjuntos de entrenamiento y prueba. Aplicar técnicas de preprocesamiento como normalización, estandarización, y codificación de variables categóricas si es necesario.
+Entrenamiento de Modelos:
+
+Entrenamiento: Entrenar los modelos seleccionados utilizando el conjunto de datos de entrenamiento. Ajustar los parámetros del modelo y aplicar técnicas de validación cruzada para evaluar la estabilidad del modelo.
+Evaluación de Modelos: Evaluar el rendimiento de cada modelo utilizando métricas adecuadas (precisión, recall, F1-score, ROC-AUC, etc.) en el conjunto de datos de prueba.
+Tuning y Optimización:
+
+Optimización de Parámetros: Aplicar técnicas de ajuste de hiperparámetros como Grid Search o Random Search para optimizar el rendimiento de los modelos.
+Selección del Mejor Modelo: Comparar el rendimiento de los modelos y seleccionar el que mejor se adapte al problema.
+Evaluación Final del Modelo:
+
+Validación del Modelo: Realizar una validación final del modelo seleccionado utilizando un conjunto de datos independiente o mediante una evaluación adicional de su rendimiento en diferentes métricas.
+Interpretación de Resultados: Interpretar los resultados del modelo en el contexto del problema de negocio. Discutir cómo el modelo puede ser utilizado para tomar decisiones y qué limitaciones puede tener.
+Documentación y Presentación:
+
+Informe de Modelado Predictivo: Preparar un informe detallado que incluya la descripción de los modelos entrenados, los resultados de la evaluación, la selección del mejor modelo y la interpretación de los resultados. El informe debe también incluir visualizaciones y gráficos que respalden el análisis.
+Presentación de Resultados: Crear una presentación de 5 minutos para compartir los hallazgos del modelado predictivo al supervisor. La presentación debe resaltar los aspectos clave del modelado, el rendimiento del modelo y las implicaciones para el negocio.
+Entregables:
+
+Informe de Modelado Predictivo:
+
+Contenido: El informe debe incluir la metodología de modelado, resultados de entrenamiento y evaluación, tuning de hiperparámetros, selección del mejor modelo y discusión de resultados. Incluyan gráficos, tablas y visualizaciones relevantes.
+Formato: El informe debe tener entre 3-5 páginas y puede ser presentado en un documento PDF o similar.
+
+Presentación de Resultados:
+
+Contenido: La presentación debe incluir una visión general del proceso de modelado, resultados clave, y las recomendaciones basadas en los modelos.
+Formato: La presentación puede incluir diapositivas con gráficos y visualizaciones para apoyar los puntos clave.
+
+Rubrica
+
+Las evaluaciones se basarán en:
+
+Calidad del Modelado: La adecuación de los modelos seleccionados, el ajuste de hiperparámetros y la optimización del rendimiento.
+Análisis y Interpretación: La profundidad del análisis y la claridad en la interpretación de los resultados del modelo.
+Documentación y Comunicación: La claridad y exhaustividad del informe y la capacidad de comunicar los resultados de manera efectiva en la presentación.
+
+
 
